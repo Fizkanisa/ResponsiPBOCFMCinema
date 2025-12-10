@@ -138,3 +138,5 @@ Aplikasi CFM Cinema berhasil dikembangkan sebagai simulasi sistem pemesanan tike
 Melalui penerapan konsep Pemrograman Berorientasi Objek, seperti enkapsulasi, inheritance, dan polimorfisme, sistem dapat mengelola data film, jadwal, kursi, dan pemesanan secara efisien dan mudah dikembangkan. Selain itu, penggunaan File I/O dan Exception Handling memastikan data pemesanan tersimpan dengan aman dan tetap dapat diakses meskipun aplikasi ditutup.
 
 Secara keseluruhan, aplikasi ini tidak hanya memenuhi kebutuhan fungsional sebagai sistem pemesanan tiket bioskop, tetapi juga berhasil menunjukkan implementasi teori OOP secara nyata, sistematis, dan relevan. Oleh karena itu, CFM Cinema layak digunakan sebagai media pembelajaran dan sebagai contoh penerapan Pemrograman Berorientasi Objek dalam pengembangan aplikasi desktop berbasis Java.
+
+LINK YOUTUBE: https://youtu.be/NyQDTN0kXTI
