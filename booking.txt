@@ -1,0 +1,10 @@
+Nama: Najwa, Film: Inside Out 2, Jam: 14:00, Kursi: A16
+2025-11-28 13:47:34 | Milla | Inside Out 2 | 14:00 | A3
+2025-11-28 14:30:17 | Milla | Inside Out 2 | 19:00 | C6
+2025-11-28 14:33:40 | Milla | Inside Out 2 | 14:00 | A6
+2025-11-28 14:58:40 | milla | Inside Out 2 | 14:00 | A2
+2025-11-28 15:19:00 | milla | Abadi Nan Jaya | 13:00 | A1
+2025-12-03 10:18:42 | milla | Agak Laen | 13:30 | C2
+2025-12-03 10:20:43 | azfa | Conjuring | 19:00 | C6
+2025-12-08 11:21:19 | cismillafizka | Conjuring | 19:00 | C2
+2025-12-08 12:04:45 | milla | Moana | 15:00 | C6
